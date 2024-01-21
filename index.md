@@ -1,7 +1,7 @@
 # Sofia's First CS193 Homework
 - It's a very informative class
 - It's not overwhelming with work
-- The instructors are nice
+- The instructors are nice!
 
 
 ## Welcome to GitHub Pages
