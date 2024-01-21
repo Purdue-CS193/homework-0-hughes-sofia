@@ -30,12 +30,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-Test test
 ```
-Test test
-#Test
-##Test
-###Test
+
 **bold** _italic_ `code` 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
